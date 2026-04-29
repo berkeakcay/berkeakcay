@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Berke Akçay</h1>
 
-## 🚀 About Me
+### 🚀 About Me
 
 - 💼 Building **scalable mobile applications in banking domain** at **Veripark**
 - 🧠 Focused on **Clean Architecture & maintainable systems**
